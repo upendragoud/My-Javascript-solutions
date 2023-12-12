@@ -1,23 +1,3 @@
-// function enter_values(){
-//     let a = prompt('Enter the value to solve its calculation: ')
-//     let x = document.getElementsByClassName('screen')
-    
-//     x.value = document.write(a)
-    
-// }
-
-
-
-// let a = []
-// function  select_value(){
-//     let x = event.target;
-//     let T = x.innerText;
-//     console.log(T)
-//     a.push(T)
-//     console.log(a)
-// }
-
-
 let a = ''
 let b = []
 let c = []
